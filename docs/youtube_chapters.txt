@@ -1,0 +1,17 @@
+00:00  Cover｜The Internet in the Sky
+00:21  Hook｜你今天用過衛星了嗎?
+00:58  Why satellites? 為什麼需要天上的網路
+01:34  軌道高度決定一切｜GEO vs MEO vs LEO
+02:23  The Perfect Storm｜LEO 為什麼現在才紅?
+03:26  Starlink End-to-End 系統架構
+04:28  By the Numbers｜10,296 顆衛星
+04:43  Cellular vs LEO｜基地台會跑!
+05:47  Massive MIMO 是什麼?
+06:30  LEO 把 Massive MIMO 變得超難
+07:37  sCSI 解法｜統計通道資訊
+08:37  真實世界量測｜Starlink 跑得怎樣?
+10:06  Starlink 怕什麼?｜環境因素
+11:09  Where LEO Wins｜應用場景 & 6G NTN
+12:12  挑戰 × 2025 前沿研究方向
+13:03  Summary｜今天學到三件事
+13:36  References
